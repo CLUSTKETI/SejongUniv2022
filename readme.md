@@ -1,6 +1,6 @@
 ## AIR Quality Code
 
-<img src="image/Architecture.jpg" width="80%" height="80%">
+<img src="image/Architecture.jpg" width="100%" height="100%">
 
 
 ### clustering
