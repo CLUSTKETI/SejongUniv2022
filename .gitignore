@@ -272,3 +272,15 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,jupyternotebooks,pycharm+all,python
+clustering/Dataset.zip
+clustering/df_all_0811.csv
+clustering/df_pm10_7day_result_1110.csv
+clustering/df_pm10_0811.csv
+clustering/df_pm10_drop_1110.csv
+clustering/PM10_clustering_1day_result_1014.csv
+clustering/PM10_clustering_result_1010.csv
+clustering/Time_Series_1day_Clustering.ipynb
+data_processing/Dataset/df_pm10_day2.csv
+data_processing/Dataset/df_time_drop.csv
+data_processing/Dataset/in_data_resample_7day.csv
+data_processing/Dataset/in_data_resample.csv
